@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syeda Ayesha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" >
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshasyeda1652-blr&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshasyeda1652-blr" /> </p>
 
